@@ -1,6 +1,6 @@
 mod calculator;
-mod todoList;
+mod todo_list;
 
 fn main() {
-  todoList::run_todo_list();
+  todo_list::run_todo_list();
 }
